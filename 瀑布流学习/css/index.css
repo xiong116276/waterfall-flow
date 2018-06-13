@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+#main{
+	position: relative;
+}
+.List{
+	float: left;
+	padding: 15px 0 0 15px;
+}
+.box{
+	padding: 10px;
+	border: 1px solid #000;
+}
+.box img{
+	width: 165px;
+	height: auto;
+}
